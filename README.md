@@ -23,3 +23,15 @@ A fully functional calculator application. Features a clean, intuitive interface
 - **HTML5** - Semantic markup
 - **CSS3** - Styling with modern features
 - **Git** - Version control
+
+## 🚀 Quick Start
+
+### Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Patience-labour/Portfolio-Layout.git
+   cd Portfolio-Layout
+   ```
+2. **Open index.html directly in your browser**
+3. **Access at http://localhost:8000**
