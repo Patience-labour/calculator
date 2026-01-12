@@ -30,7 +30,7 @@ A fully functional calculator application. Features a clean, intuitive interface
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Patience-labour/Portfolio-Layout.git
+   git clone https://github.com/Patience-labour/calculator.git
    cd Portfolio-Layout
    ```
 2. **Open index.html directly in your browser**
