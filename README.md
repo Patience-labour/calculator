@@ -1,4 +1,4 @@
-#📱 Calculator
+# 📱 Calculator
 
 A fully functional calculator application. Features a clean, intuitive interface with support for all basic arithmetic operations, parentheses, percentages, and decimal calculations.
 
